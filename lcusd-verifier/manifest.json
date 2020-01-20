@@ -1,0 +1,6 @@
+{
+    "name": "LCUSD Verifier",
+    "version": "0.1",
+    "description": "verifies the legitness of lcusd emails",
+    "manifest_version": 1, 
+}
